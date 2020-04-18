@@ -1,0 +1,10 @@
+C:\VS_projects\Str\bin\Debug\CP_str.exe.config
+C:\VS_projects\Str\bin\Debug\CP_str.exe
+C:\VS_projects\Str\bin\Debug\CP_str.pdb
+C:\VS_projects\Str\obj\Debug\Str.csprojAssemblyReference.cache
+C:\VS_projects\Str\obj\Debug\CP_str.Form1.resources
+C:\VS_projects\Str\obj\Debug\CP_str.Properties.Resources.resources
+C:\VS_projects\Str\obj\Debug\Str.csproj.GenerateResource.cache
+C:\VS_projects\Str\obj\Debug\Str.csproj.CoreCompileInputs.cache
+C:\VS_projects\Str\obj\Debug\CP_str.exe
+C:\VS_projects\Str\obj\Debug\CP_str.pdb
