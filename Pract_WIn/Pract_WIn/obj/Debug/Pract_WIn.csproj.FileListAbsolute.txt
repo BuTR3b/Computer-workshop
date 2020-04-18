@@ -1,0 +1,10 @@
+C:\VS_projects\Pract_WIn\Pract_WIn\bin\Debug\Pract_WIn.exe.config
+C:\VS_projects\Pract_WIn\Pract_WIn\bin\Debug\Pract_WIn.exe
+C:\VS_projects\Pract_WIn\Pract_WIn\bin\Debug\Pract_WIn.pdb
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.csprojAssemblyReference.cache
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.Form1.resources
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.Properties.Resources.resources
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.csproj.GenerateResource.cache
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.exe
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.pdb
+C:\VS_projects\Pract_WIn\Pract_WIn\obj\Debug\Pract_WIn.csproj.CoreCompileInputs.cache
