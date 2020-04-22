@@ -1,0 +1,10 @@
+C:\VS_projects\2D_arrays\bin\Debug\2D_arrays.exe.config
+C:\VS_projects\2D_arrays\bin\Debug\2D_arrays.exe
+C:\VS_projects\2D_arrays\bin\Debug\2D_arrays.pdb
+C:\VS_projects\2D_arrays\obj\Debug\2D_arrays.csprojAssemblyReference.cache
+C:\VS_projects\2D_arrays\obj\Debug\_2D_arrays.Form1.resources
+C:\VS_projects\2D_arrays\obj\Debug\_2D_arrays.Properties.Resources.resources
+C:\VS_projects\2D_arrays\obj\Debug\2D_arrays.csproj.GenerateResource.cache
+C:\VS_projects\2D_arrays\obj\Debug\2D_arrays.csproj.CoreCompileInputs.cache
+C:\VS_projects\2D_arrays\obj\Debug\2D_arrays.exe
+C:\VS_projects\2D_arrays\obj\Debug\2D_arrays.pdb
