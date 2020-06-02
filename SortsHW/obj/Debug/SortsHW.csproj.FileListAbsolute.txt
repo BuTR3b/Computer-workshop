@@ -1,0 +1,10 @@
+C:\VS_projects\SortsHW\bin\Debug\SortsHW.exe.config
+C:\VS_projects\SortsHW\bin\Debug\SortsHW.exe
+C:\VS_projects\SortsHW\bin\Debug\SortsHW.pdb
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.csprojAssemblyReference.cache
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.Form1.resources
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.Properties.Resources.resources
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.csproj.GenerateResource.cache
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.csproj.CoreCompileInputs.cache
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.exe
+C:\VS_projects\SortsHW\obj\Debug\SortsHW.pdb
