@@ -1,0 +1,11 @@
+C:\VS_projects\myGraphic\bin\Debug\myGraphic.exe.config
+C:\VS_projects\myGraphic\bin\Debug\myGraphic.exe
+C:\VS_projects\myGraphic\bin\Debug\myGraphic.pdb
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.csprojAssemblyReference.cache
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.Form1.resources
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.Properties.Resources.resources
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.csproj.GenerateResource.cache
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.csproj.CoreCompileInputs.cache
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.exe
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.pdb
+C:\VS_projects\myGraphic\obj\Debug\myGraphic.Form2.resources
