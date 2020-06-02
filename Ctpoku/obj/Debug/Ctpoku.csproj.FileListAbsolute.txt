@@ -1,0 +1,10 @@
+C:\VS_projects\Ctpoku\bin\Debug\Ctpoku.exe.config
+C:\VS_projects\Ctpoku\bin\Debug\Ctpoku.exe
+C:\VS_projects\Ctpoku\bin\Debug\Ctpoku.pdb
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.csprojAssemblyReference.cache
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.Form1.resources
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.Properties.Resources.resources
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.csproj.GenerateResource.cache
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.csproj.CoreCompileInputs.cache
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.exe
+C:\VS_projects\Ctpoku\obj\Debug\Ctpoku.pdb
